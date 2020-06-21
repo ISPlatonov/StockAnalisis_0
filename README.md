@@ -1,7 +1,5 @@
 # test_intro
 
-## Вступительное задание для Альфа-Банка
+### Introductory task for Alfa-Bank
 
-Анализ котировок акций для AAPL, GOOG и FB за последние 10 лет
-
-Все подробности анализа записаны в ноутбуке
+Stock price analysis for AAPL, GOOG, and FB over the past 10 years. All the details of the analysis are recorded in the notebook
